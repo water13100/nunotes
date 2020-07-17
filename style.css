@@ -160,6 +160,12 @@ width: 100%;
     width: 100%;
     overflow: hidden;
 }
+.transaction{
+    position: absolute;
+    left: 35px;
+    top: 10%;
+    color: rgb(102, 102, 102);
+}
 
 .muckup-3-img{
     height: 100%;
