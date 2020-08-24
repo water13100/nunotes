@@ -156,8 +156,8 @@ width: 100%;
     height: 100px;
 }
 .app-img{
-    width: 102%;
-    overflow: hidden;
+    width: 150%;
+    
 }
 .transaction{
     position: absolute;
@@ -377,7 +377,7 @@ z-index: -1;
 .green-box-2{
     height: 200%;
     width: 100%;
-    overflow: hidden;
+    /* overflow: hidden; */
     position: absolute;
     left: 0px;
     top:300%;
